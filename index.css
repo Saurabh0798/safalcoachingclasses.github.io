@@ -1,0 +1,13 @@
+body{
+    background-color:cadetblue;
+}
+
+.font-style{
+    font-family: 'Tiro Devanagari Marathi', serif;
+    font-size: 40px;
+}
+.img {
+    width: 7%;
+    height: auto;
+    border-radius:10%;
+  }
